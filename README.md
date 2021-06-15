@@ -15,10 +15,10 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project (Anime-collection)
-Goal - I want contributors to help me list some favorite Japanese Anime.
+# My Project (Pop idol-collection)
+Goal - I want contributors to help me list some favorite Pop idol.
 
-# List of Anime.
+# List of Pop idol.
 1. Naruto
 2. One Piece
 3. Humanity has declined
