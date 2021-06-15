@@ -19,8 +19,5 @@ To complete the assignment, please do the following:
 Goal - I want contributors to help me list some favorite Pop idol.
 
 # List of Pop idol.
-1. Naruto
-2. One Piece
-3. Humanity has declined
-4. JoJo's Bizarre Adventure
-5. Dragon Ball Z
+1. Keyakizaka 46
+
