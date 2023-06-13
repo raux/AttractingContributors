@@ -15,16 +15,22 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project (Anime-collection)
-Goal - I want contributors to help me list some favorite Japanese Anime.
+# My Project (ProgrammingLanguage)
 
-# List of Anime.
-1. Naruto
-2. One Piece
-3. Humanity has declined
-4. JoJo's Bizarre Adventure
-5. Dragon Ball Z
-6. World Trigger
-7. BLEACH
-8. Serial Experiments Lain
-9. PoketMon
+Goal - I want contributors to help me list some favorite ProgrammingLanguage.
+List of Anime.
+
+# List of ProgrammingLanguage
+*  C#
+*  Python
+*  C
+*  Python
+*  R
+*  C++
+*  Java
+*  Python3
+*  Rust
+*  C
+*  Swift
+*  Kotlin
+
