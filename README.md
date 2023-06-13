@@ -1,30 +1,17 @@
-# Attracting Contributors
-As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
-# Rules
+# My Project (Manga-collection)
+Goal - I want contributors to help me list some favorite Manga.
+# List of Manga
+1. Ninja to Gokudo(忍者と極道)
+2. Doraemon
+3. Dr.Stone
+4. BLEACH
+5. WorldTrigger
+6. DEATH NOTE
+7. chainsaw man
+8. Fuuka （風夏）　
+9. Your Lie in April
+10. バクマン
+11. Made in abys
+12. One punch man
 
-1. Please choose a hobby or some interest that you want to build your repository
-2. Make a README to announce this theme (i.e., my favourite video games or anime)
-3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
-4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
-
-# Requirements
-To complete the assignment, please do the following:
-1. Fork this project and then rename the title to your hobby. 
-2. Announce the new project and try to attract other members.
-3. Make 10 Pull Request contributions to other projects
-4. Merge 10 Pull Requests into your forked Project.
-
-# My Project (Anime-collection)
-Goal - I want contributors to help me list some favorite Japanese Anime.
-
-# List of Anime.
-1. Naruto
-2. One Piece
-3. Humanity has declined
-4. JoJo's Bizarre Adventure
-5. Dragon Ball Z
-6. World Trigger
-7. BLEACH
-8. Serial Experiments Lain
-9. PoketMon
